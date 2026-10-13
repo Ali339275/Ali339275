@@ -22,7 +22,6 @@ INP Grenoble
 **BSc Computer Engineering**  
 Politecnico di Torino  
 2021-2024
-
 Final grade: **104/110**
 
 ---
