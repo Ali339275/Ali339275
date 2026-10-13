@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a Master’s student in **Computer Engineering** at **Politecnico di Torino** and currently an exchange M2 student at **INP Grenoble**.  
+I am a Master’s graduate in **Computer Engineering** from **Politecnico di Torino** and currently I'm in my PhD journey exploring Graph Neural Networks applied on semantic trajectories represented in Spatio-temporal Knowledge Graphs.  
 My background combines **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **GPU Computing**, with a growing focus on **Graph Neural Networks**, **Knowledge Graphs**, and **Spatiotemporal AI**.  
 I am particularly interested in building hybrid symbolic-neural systems that connect semantic web technologies with modern deep learning methods.
 
@@ -11,6 +11,7 @@ I am particularly interested in building hybrid symbolic-neural systems that con
 **MSc Computer Engineering**  
 Politecnico di Torino  
 2024 – 2026  
+Final grade: **107/110**
 
 **Exchange Program, M2**  
 INP Grenoble  
@@ -18,6 +19,7 @@ INP Grenoble
 
 **BSc Computer Engineering**  
 Politecnico di Torino  
+2021-2024
 Final grade: **104/110**
 
 ---
@@ -76,3 +78,4 @@ Graph Neural Networks and Knowledge Graph Learning • Spatiotemporal Representa
 Arabic: Native  
 English: Fluent  
 Italian: Basic
+
