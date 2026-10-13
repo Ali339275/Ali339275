@@ -1,8 +1,10 @@
 # 👋 About Me
 
-I am a Master’s graduate in **Computer Engineering** from **Politecnico di Torino** and currently I'm in my PhD journey exploring Graph Neural Networks applied on semantic trajectories represented in Spatio-temporal Knowledge Graphs.  
-My background combines **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **GPU Computing**, with a growing focus on **Graph Neural Networks**, **Knowledge Graphs**, and **Spatiotemporal AI**.  
-I am particularly interested in building hybrid symbolic-neural systems that connect semantic web technologies with modern deep learning methods.
+I hold a Master’s degree in **Computer Engineering** from **Politecnico di Torino** and am currently pursuing a PhD, focusing on **Graph Neural Networks (GNNs)** applied to semantic trajectories represented in **Spatiotemporal Knowledge Graphs**.
+
+My background spans **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **GPU Computing**, with an increasing research focus on **Graph Neural Networks**, **Knowledge Graphs**, and **Spatiotemporal AI**.
+
+I am particularly interested in developing **hybrid neuro-symbolic systems** that bridge **Semantic Web technologies** and modern **deep learning approaches**.
 
 ---
 
